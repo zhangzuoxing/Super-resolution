@@ -1,0 +1,3 @@
+"../robust_deblur.exe" ../data/lyndsey.png ../data/lyndseyout.png 27 27 2.2 0.7 4e-2 0 1
+
+
